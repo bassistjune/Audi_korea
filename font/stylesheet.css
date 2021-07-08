@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'Audi Type Bold';
+    src: url('AudiType-Bold.eot');
+    src: url('AudiType-Bold.eot?#iefix') format('embedded-opentype'),
+        url('AudiType-Bold.woff') format('woff'),
+        url('AudiType-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Audi Type Extended Bold';
+    src: url('AudiType-ExtendedBold.eot');
+    src: url('AudiType-ExtendedBold.eot?#iefix') format('embedded-opentype'),
+        url('AudiType-ExtendedBold.woff') format('woff'),
+        url('AudiType-ExtendedBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Audi Type Extended Normal';
+    src: url('AudiType-ExtendedNormal.eot');
+    src: url('AudiType-ExtendedNormal.eot?#iefix') format('embedded-opentype'),
+        url('AudiType-ExtendedNormal.woff') format('woff'),
+        url('AudiType-ExtendedNormal.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Audi Type Wide Bold';
+    src: url('AudiType-WideBold.eot');
+    src: url('AudiType-WideBold.eot?#iefix') format('embedded-opentype'),
+        url('AudiType-WideBold.woff') format('woff'),
+        url('AudiType-WideBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Audi Type Normal';
+    src: url('AudiType-Normal.eot');
+    src: url('AudiType-Normal.eot?#iefix') format('embedded-opentype'),
+        url('AudiType-Normal.woff') format('woff'),
+        url('AudiType-Normal.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Audi Type Wide Light';
+    src: url('AudiType-WideLight.eot');
+    src: url('AudiType-WideLight.eot?#iefix') format('embedded-opentype'),
+        url('AudiType-WideLight.woff') format('woff'),
+        url('AudiType-WideLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Audi Type Wide Normal';
+    src: url('AudiType-WideNormal.eot');
+    src: url('AudiType-WideNormal.eot?#iefix') format('embedded-opentype'),
+        url('AudiType-WideNormal.woff') format('woff'),
+        url('AudiType-WideNormal.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
